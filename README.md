@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🔭 I’m currently working on [LogistykaRepo](https://github.com/Kamil3162/LogistykaRepo)
+- 🔭 I’m currently working on [PlantMarketplace](https://github.com/Kamil3162/PlantMarketplace)
 
-- 🌱 I’m currently learning **Django, Django Rest, React.JS**
+- 🌱 I’m currently learning **Django, Django Rest, React.JS, RabbitMQ, Redis, CI/CD, TailwindCSS, pytest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamil3162?tab=repositories](https://github.com/Kamil3162?tab=repositories)
 
